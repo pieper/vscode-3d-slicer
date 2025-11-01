@@ -3,6 +3,10 @@
   "displayName": "3D Slicer",
   "description": "Access to the 3D Slicer python environment to enable convenient coding",
   "version": "0.0.1",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/pieper/vscode-3d-slicer.git"
+  },
   "publisher": "pieper",
   "engines": {
     "vscode": "^1.105.0"
